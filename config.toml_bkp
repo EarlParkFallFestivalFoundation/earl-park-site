@@ -1,0 +1,77 @@
+title = "Earl Park Fall Festival"
+baseURL = "/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "Events"
+    url = "/events"
+  [[menu.header]]
+    weight = 3
+    name = "Schedule"
+    url = "/schedule"
+  [[menu.header]]
+    weight = 4
+    name = "Contact"
+    url = "/contact"
+
+  [[menu.footer]]
+    weight = 1
+    name = "Events"
+    url = "/events"
+  [[menu.footer]]
+    weight = 2
+    name = "Schedule"
+    url = "/schedule"
+  [[menu.footer]]
+    weight = 3
+    name = "Contact"
+    url = "/contact"
+
+
+# The site's parameters
+[params]
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "46th Annual Earl Park Fall Festival"
+    subtitle = "August 31st - September 3rd. Held annually every Labor Day weekend in Earl Park, Indiana."
+
+  [params.wrapper]
+    enable = true
+    title = "About Us"
+    italic = "Founded in 1972, the Earl Park Fall Festival has brought the community together through music, camping, sports, games, food, and much more!"
+    paragraph = "The Fall Festival is widely known for its FREE FAMILY ENTERTAINMENT including a Truck & Tractor Pull, Demolition Derby, Parade, Car Show, Softball Tournament, Horseshoe Tournament, Pedal Tractor Pull, Mud Volleyball, and more! The festival's large committee of volunteers is busy planning all of the special events that happen during the annual Labor Day weekend event. Anyone attending the festival can enjoy a craft and flea market, Bluegrass music, and concession food stands each day of the festival. There is a different dinner specialty everyday, including a fish fry, spaghetti dinner, chicken noodle dinner, and chicken dinner."
+
+  [params.schedule]
+      enable = true
+      title = "Labor Day Weekend"
+      subtitle = "August 31st - September 3rd"
+
+  [params.events]
+    enable = true
+    title = "Labor Day Weekend"
+    subtitle = "August 31st - September 3rd"
+
+  [params.contact]
+    enable = true
+    title = "Contact Us"
+    subtitle = "If you're interested in becoming a vendor, volunteer, or looking for more information contact us here."
+    [params.contact.form]
+      name = "Name"
+      email = "Email"
+      subject = "Subject"
+      message = "Mssage"
+      button = "Send Message"
+    [params.contact.box]
+      title = "The festival is held at the town park about 7 miles south of the intersection of US 241 and US 24 (Kentland, IN)."
+      address = "318 N Town Park Cir, Earl Park, IN 47942"
+      email = "Email: administrator@earlparkfestival.com"
+      phone = "Phone: (219) 474-6108"
+    [params.contact.gmaps]
+      title = ""

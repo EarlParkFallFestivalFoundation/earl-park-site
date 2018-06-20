@@ -1,0 +1,43 @@
+<hr>
+<nav class="nav nav-center">
+    <span id="nav-toggle" class="nav-toggle"  onclick="document.getElementById('nav-menu').classList.toggle('is-active');">
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+    <div id="nav-menu" class="nav-left nav-menu">
+      <span class="nav-item">
+        <a href="{{ "/" | relURL }}">Main</a>
+      </span>
+      <span class="nav-item">
+        <a href="{{ "/about" | relURL }}">About</a>
+      </span>
+      {{ if .Site.Params.showSchedule }}
+      <span class="nav-item">
+        {{ if ne .Section "schedule" }}
+        <a href="{{ "/schedule" | relURL }}">Schedule</a>
+        {{ else }}
+        <a href="{{ "/schedule" | relURL }}">Back to Schedule</a>
+        {{ end }}
+      </span>
+      {{ end }}
+      {{ if .Site.Params.showEvent }}
+      <span class="nav-item">
+        {{ if ne .Section "event" }}
+        <a href="{{ "/events" | relURL }}">Events</a>
+        {{ else }}
+        <a href="{{ "/events" | relURL }}">Back to Events</a>
+        {{ end }}
+      </span>
+      {{ end }}
+      <span class="nav-item">
+        <a href="{{ "/contact" | relURL }}">Contact</a>
+      </span>
+    {{ if .Site.RSSLink }}
+      <span class="nav-item">
+        <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
+      </span>
+    {{ end }}
+    </div>
+</nav>
+<hr>
