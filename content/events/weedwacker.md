@@ -3,8 +3,13 @@ title : "Weed Wacker Pull"
 tags : ["weedwacker"]
 ---
 
+`Day: Sunday, September 5th`
 
-Similar to the regular tractor pull the festival hosts a weed wacker tractor pull on Sunday. 
+`Time: 11:00 AM` 
+
+`Location: Track`
+
+Similar to a tractor pull this machines pull a weight sled powered only by weed wacker engines! 
 
 ![WeedWacker](/img/events/weedwacker/weedwacker1.jpg)
 ![WeedWacker](/img/events/weedwacker/weedwacker2.jpg)
