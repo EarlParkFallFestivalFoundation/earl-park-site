@@ -3,7 +3,9 @@ title : "Bluegrass"
 tags : ["bluegrass"]
 ---
 
-The bluegrass line-up is still to be finalized at this time.
+`Days: Friday, September 3rd - Sunday, September 5th`
+
+The bluegrass line-up is still to be finalized at this time. Please checkout the [schedule](https://www.earlparkfestival.com/schedule) for specific times.
 
 The festival has been home to bluegrass music since the early days in the 1970s. Music will occur rain or shine on Friday evening, Saturday afternoon/evening, and Sunday afternoon/evening.
 
