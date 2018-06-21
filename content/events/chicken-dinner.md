@@ -3,4 +3,10 @@ title : "Chicken Dinner"
 tags : ["dinner"]
 ---
 
-TBD
+`Day: Sunday, September 5th`
+
+`Time: 11:00 AM - 1:30 PM` 
+
+`Location: Cardinal Roost`
+
+We will be having a chicken dinner with fried chicken, green beans, and potatoes!
