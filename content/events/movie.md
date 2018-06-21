@@ -2,11 +2,14 @@
 title : "Movie in the Park"
 tags : ["movie"]
 ---
+
+`Day: Friday, August 27th`
+
 `Time: Dusk` 
 
 `Location: Bluegrass Area`
     
-We will be showing a movie in the park around dusk at the bluegrass stage. We will announce the movie has we draw closer to the date.
+We will be showing a family friendly movie in the park around dusk at the bluegrass stage. Come out and enjoy the entertainment and some free popcorn!
 
 
     
