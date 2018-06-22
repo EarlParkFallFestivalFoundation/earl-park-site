@@ -6,7 +6,7 @@ pygmentsStyle           = "monokai"                         # https://help.farbo
 pygmentsCodefences      = true
 enforce_ssl             = false
 # disqusshortname       = ""                                # Enable Disqus for comments https://gohugo.io/content-management/comments
-# googleAnalytics       = ""                                # Enable Google Analytics https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics         = "UA-23344414-3"                                # Enable Google Analytics https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     eventHead            = "Event"                            # Full name shows on blog post pages
