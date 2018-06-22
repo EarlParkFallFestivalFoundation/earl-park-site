@@ -3,4 +3,10 @@ title: "Antique Tractor Show"
 tags: ["tractor"]
 ---
 
-TBD
+`Day: Monday, September 6th`
+
+`Time: 9:30 AM`
+
+`Location: Track`
+
+Come out and see some beautiful antique tractors. We will also be having a drive around the town!
