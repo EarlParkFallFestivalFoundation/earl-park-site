@@ -3,6 +3,10 @@ title : "Fall Feast"
 tags : ["feast"]
 ---
 
+`Day: Saturday, August 28th`
 
+`Time: 5:00 - 8:00 PM`
 
-TBD
+`Location: Cardinal Roost`
+
+We will be having a hog roast the weekend before the main festival. 

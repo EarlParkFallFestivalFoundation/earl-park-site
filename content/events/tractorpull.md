@@ -3,6 +3,19 @@ title : "Truck and Tractor Pull"
 tags : ["tractor pull"]
 ---
 
+`Day: Saturday, September 4th`
+
+Registration:
+
+`Time: 10:00 AM`
+
+`Location: Track`
+
+Main Event:
+
+`Time: 12:00 PM`
+
+`Location: Track`
 
 The festival will be hosting the truck and tractor pull on Saturday.
 
