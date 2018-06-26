@@ -31,7 +31,7 @@ tags: ["festival"]
     Time: 9:00 AM 
     Location: East Lot
 
-#### Bluegrass Gospel Hour - TBD
+#### Bluegrass Gospel Hour - Rusty Nail Crossing
     Time: 10:30 AM 
     Location: Bluegrass Stage
 
@@ -51,7 +51,7 @@ tags: ["festival"]
     Time: 1:00 PM 
     Location: Top of Circle
 
-#### TBD
+#### Unexpected Surprises
     Time: 1:00 PM 
     Location: Bluegrass Stage
 
@@ -59,7 +59,7 @@ tags: ["festival"]
     Time: 1:30 PM 
     Location: Cardinal Roost
 
-#### TBD
+#### Carl Bentley & Eagle Creek
     Time: 1:45 PM 
     Location: Bluegrass Stage
 
@@ -67,7 +67,7 @@ tags: ["festival"]
     Time: 2:00 PM 
     Location: Cardinal Roost
 
-#### TBD
+#### The Atkinsons
     Time: 2:30 PM 
     Location: Bluegrass Stage
 
@@ -79,7 +79,7 @@ tags: ["festival"]
     Time: 3:00 PM 
     Location: Track
 
-#### TBD
+#### Jalen Bahler & Small Town
     Time: 3:15 PM 
     Location: Bluegrass Stage
 
@@ -87,22 +87,22 @@ tags: ["festival"]
     Time: 4:00 PM 
     Location: Top of Circle
 
-#### TBD
+#### Rusty Nail Crossing
     Time: 4:00 PM 
     Location: Bluegrass Stage
 
-#### TBD
+#### The Atkinsons
     Time: 6:00 PM 
     Location: Bluegrass Stage
 
-#### TBD
+#### Unexpected Surprises
     Time: 6:45 PM 
     Location: Bluegrass Stage
 
-#### TBD
+#### Carl Bentley & Eagle Creek
     Time: 7:30 PM 
     Location: Bluegrass Stage
 
-#### TBD
+#### Rusty Nail Crossing
     Time: 8:15 PM 
     Location: Bluegrass Stage
