@@ -16,14 +16,14 @@ tags: ["festival"]
     Time: 5:00 - 8:00 PM 
     Location: Cardinal Roost
 
-#### TDB
+#### Jalen Bahler & Small Town
     Time: 7:00 PM	
     Location: Bluegrass Stage
 
-#### TDB	
+#### Bahler Golden Age Band	
     Time: 7:45 PM	
     Location: Bluegrass Stage
     
-#### TDB
+#### Handsome Molly
     Time: 8:30 PM	
     Location: Bluegrass Stage

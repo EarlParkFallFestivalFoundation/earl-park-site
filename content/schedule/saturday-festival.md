@@ -38,29 +38,30 @@ tags: ["festival"]
     Time: 4:00 - 8:00 PM
     Location: Cardinal Roost
     
-#### TBD
+#### Bahler Golden Age Band
     Time: 4:00 PM
     Location: Bluegrass Stage
     
-#### TBD
+#### Handsome Molly
     Time: 4:45 PM
     Location: Bluegrass Stage
     
-#### TBD
+#### TBA
     Time: 5:30 PM
     Location: Bluegrass Stage
-#### TBD
+
+#### Bahler Golden Age Band
     Time: 6:15 PM
     Location: Bluegrass Stage
     
-#### TBD
+#### The Atkinsons
     Time: 7:00 PM
     Location: Bluegrass Stage
     
-#### TBD
+#### Handsome Molly
     Time: 7:45 PM
     Location: Bluegrass Stage
     
-#### TBD
+#### TBA
     Time: 8:30 PM
     Location: Bluegrass Stage
