@@ -51,7 +51,7 @@ tags: ["festival"]
     Time: 1:00 PM 
     Location: Top of Circle
 
-#### Unexpected Surprises
+#### TBA
     Time: 1:00 PM 
     Location: Bluegrass Stage
 
@@ -95,7 +95,7 @@ tags: ["festival"]
     Time: 6:00 PM 
     Location: Bluegrass Stage
 
-#### Unexpected Surprises
+#### TBA
     Time: 6:45 PM 
     Location: Bluegrass Stage
 

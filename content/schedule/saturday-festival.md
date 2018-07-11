@@ -46,7 +46,7 @@ tags: ["festival"]
     Time: 4:45 PM
     Location: Bluegrass Stage
     
-#### TBA
+#### Next Generation
     Time: 5:30 PM
     Location: Bluegrass Stage
 
@@ -62,6 +62,6 @@ tags: ["festival"]
     Time: 7:45 PM
     Location: Bluegrass Stage
     
-#### TBA
+#### Next Generation
     Time: 8:30 PM
     Location: Bluegrass Stage
