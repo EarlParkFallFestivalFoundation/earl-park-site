@@ -3,7 +3,7 @@ title : "Demo Derby"
 tags : ["derby"]
 ---
 
-`Day: Sunday, September 5th`
+`Day: Sunday, September 2nd`
 
 Registration:
 

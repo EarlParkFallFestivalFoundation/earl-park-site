@@ -3,7 +3,7 @@ title : "Catholic Mass"
 tags : ["mass"]
 ---
 
-`Day: Sunday, September 5th`
+`Day: Sunday, September 2nd`
 
 `Time: 7:00 AM` 
 

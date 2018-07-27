@@ -3,7 +3,7 @@ title : "Fish Fry Dinner"
 tags : ["dinner"]
 ---
 
-`Day: Friday, Spetember 4th`
+`Day: Friday, August 31st`
 
 `Time: 5:00 - 8:00 PM`
 

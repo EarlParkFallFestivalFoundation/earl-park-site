@@ -3,7 +3,7 @@ title : "Truck and Tractor Pull"
 tags : ["tractor pull"]
 ---
 
-`Day: Saturday, September 4th`
+`Day: Saturday, September 3rd`
 
 Registration:
 

@@ -3,7 +3,7 @@ title : "Raffle"
 tags : ["raffle"]
 ---
 
-`Day: Monday, September 6th`
+`Day: Monday, September 3rd`
 
 `Time: 5:00 PM`
 

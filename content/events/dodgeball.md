@@ -3,7 +3,7 @@ title : "Dodgeball"
 tags : ["dodgeball"]
 ---
 
-`Day: Monday, September 6th`
+`Day: Monday, September 3rd`
 
 Registration:
 

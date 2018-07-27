@@ -3,7 +3,7 @@ title : "Washoo Tournament"
 tags : ["washoo"]
 ---
 
-`Day: Saturday, August 28th`
+`Day: Saturday, August 25th`
 
 Registration:
 

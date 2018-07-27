@@ -3,7 +3,7 @@ title : "Chicken Noodle Dinner"
 tags : ["dinner"]
 ---
 
-`Day: Saturday, Spetember 4th`
+`Day: Saturday, Spetember 1st`
 
 `Time: 4:00 - 8:00 PM`
 

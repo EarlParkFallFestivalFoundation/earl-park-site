@@ -3,7 +3,7 @@ title : "Auto Show"
 tags : ["autoshow"]
 ---
 
-`Day: Sunday, September 5th`
+`Day: Sunday, September 3rd`
 
 Registration:
 

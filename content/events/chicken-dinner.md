@@ -3,7 +3,7 @@ title : "Chicken Dinner"
 tags : ["dinner"]
 ---
 
-`Day: Sunday, September 5th`
+`Day: Sunday, September 2nd`
 
 `Time: 11:00 AM - 1:30 PM` 
 

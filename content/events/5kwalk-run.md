@@ -3,7 +3,7 @@ title: "5k Walk-Run"
 tags: ['5k']
 ---
 
-`Day: Saturday, August 28th`
+`Day: Saturday, August 24th`
 
 Registration:
 
