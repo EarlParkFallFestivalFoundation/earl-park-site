@@ -3,7 +3,7 @@ title : "Horseshoe Tournament"
 tags : ["horseshoes"]
 ---
 
-`Day: Monday, September 6th`
+`Day: Monday, September 3rd`
 
 Qualification:
 

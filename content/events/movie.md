@@ -3,7 +3,7 @@ title : "Movie in the Park"
 tags : ["movie"]
 ---
 
-`Day: Friday, August 27th`
+`Day: Friday, August 26th`
 
 `Time: Dusk` 
 

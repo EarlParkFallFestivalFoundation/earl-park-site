@@ -3,7 +3,7 @@ title : "Weed Wacker Pull"
 tags : ["weedwacker"]
 ---
 
-`Day: Sunday, September 5th`
+`Day: Sunday, September 2nd`
 
 `Time: 11:00 AM` 
 

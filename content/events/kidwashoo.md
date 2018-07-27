@@ -3,7 +3,7 @@ title : "Kid's Washoo Tournament"
 tags : ["washoo"]
 ---
 
-`Day: Saturday, September 4th`
+`Day: Saturday, September 1st`
 
 `Time: 10:00 AM`
 

@@ -3,7 +3,7 @@ title : "Mud Volleyball"
 tags : ["volleyball"]
 ---
 
-`Day: Sunday, September 5th`
+`Day: Sunday, September 2nd`
 
 Registration:
 
