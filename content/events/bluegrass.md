@@ -3,7 +3,7 @@ title : "Bluegrass"
 tags : ["bluegrass"]
 ---
 
-`Days: Friday, August 31st - Sunday, September 3rd`
+`Days: Friday, August 31st - Sunday, September 2nd`
 
 The bluegrass line-up is almost finalized at this time. Please checkout the [schedule](https://www.earlparkfestival.com/schedule) for specific times.
 
