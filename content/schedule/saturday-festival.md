@@ -21,7 +21,11 @@ tags: ["festival"]
 #### Kid's Wa-shoos
     Time: 10:00 AM
     Location: Top of Circle
-    
+
+#### American Red Cross Blood Drive
+    Time: 11:00AM  - 3:30 PM
+    Location: Top of Circle
+        
 #### Truck and Tractor Pull
     Time: 12:00 PM
     Location: Track
