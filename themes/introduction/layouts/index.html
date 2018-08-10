@@ -62,7 +62,14 @@
                 {{ end }}
             </div>
         </div>
-        <div class="column is-two-thirds has-text-centered">
+        <div class="column has-text-centered">
+            <button onclick="window.open('/docs/earl-park-brochure2018.pdf')">
+                <img class="img-responsive avatar" src="{{ .Site.Params.brochurepage1 }}" alt="Brochure1">
+                <img class="img-responsive avatar" src="{{ .Site.Params.brochurepage2 }}" alt="Brochure2">
+                <i class="fa fa-file-pdf-o"></i>
+            </button>
+        </div>
+        <div class="column has-text-centered">
             <img class="img-responsive avatar" src="{{ .Site.Params.bloodrive | relURL }}" alt="Bloodrive">
         </div>
     </div><!-- End About container-->
