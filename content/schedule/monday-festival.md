@@ -8,7 +8,7 @@ tags: ["festival"]
 <br>
 
 #### Breakfast
-    Time: 10:00 - 12:00 PM
+    Time: 7:00 - 10:30 PM
     Location: Cardinal Roost
     
 #### Hourseshoes Qualifications
