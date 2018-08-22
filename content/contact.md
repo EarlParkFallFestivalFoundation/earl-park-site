@@ -9,7 +9,7 @@ If you're interested in becoming a vendor, volunteer, or looking for more inform
 
 <br>    
     
-The festival is held at the town park about 7 miles south of the intersection of US 241 and US 24 (Kentland, IN).
+The festival is held at the town park about 7 miles south of the intersection of US 41 and US 24 (Kentland, IN).
 
 318 N Town Park Circle, Earl Park, IN 47942
 
