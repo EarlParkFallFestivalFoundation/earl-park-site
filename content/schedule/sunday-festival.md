@@ -51,7 +51,7 @@ tags: ["festival"]
     Time: 1:00 PM 
     Location: Top of Circle
 
-#### TBA
+#### Handsome Molly
     Time: 1:00 PM 
     Location: Bluegrass Stage
 
@@ -95,7 +95,7 @@ tags: ["festival"]
     Time: 6:00 PM 
     Location: Bluegrass Stage
 
-#### TBA
+#### Handsome Molly
     Time: 6:45 PM 
     Location: Bluegrass Stage
 
