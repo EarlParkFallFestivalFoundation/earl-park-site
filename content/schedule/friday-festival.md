@@ -1,5 +1,5 @@
 ---
-title: "Aug 31st, Friday"
+title: "Aug 30th, Friday"
 tags: ["festival"]
 ---
 

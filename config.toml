@@ -10,15 +10,15 @@ googleAnalytics         = "UA-23344414-3"                                # Enabl
 
 [params]
     eventHead            = "Event"                            # Full name shows on blog post pages
-    firstName           = "The 46th Earl Park Fall Festival"         # First name shows in introduction on main page
-    tagLine             = "August 31st - September 3rd, 2018. Earl Park, Indiana."    # Appears after the introduction
+    firstName           = "The 47th Earl Park Fall Festival"         # First name shows in introduction on main page
+    tagLine             = "August 30th - September 2nd, 2019. Earl Park, Indiana."    # Appears after the introduction
     introHeight         = "large"                           # Input either 'medium' or 'large' or 'fullheight'
     themeStyle          = "light"                           # Choose 'light' or 'dark'
     avatar              = "img/about.jpg"                 # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    brochurepage1      = "docs/earl-park-brochure2018-page-001.jpg"
-    brochurepage2      = "docs/earl-park-brochure2018-page-002.jpg"
-    brochurepdf        = "docs/earl-park-brochure2018.pdf"
-    bloodrive           = "img/bloodrive.jpg"
+    #brochurepage1      = "docs/earl-park-brochure2019-page-001.jpg"
+    #brochurepage2      = "docs/earl-park-brochure2019-page-002.jpg"
+    #brochurepdf        = "docs/earl-park-brochure2019.pdf"
+    #bloodrive           = "img/bloodrive.jpg"
     email               = "info@earlparkfestival.com"       # Shows in contact section, or leave blank to omit
     localTime           = true                              # Show your current local time in contact section
     timeZone            = "America/New_York"                # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

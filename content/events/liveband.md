@@ -3,7 +3,7 @@ title : "Live Band"
 tags : ["band"]
 ---
 
-`Day: Saturday, August 25th`
+`Day: Saturday, August 24th`
 
 `Time: 8:00 PM`
 
