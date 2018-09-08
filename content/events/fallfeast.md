@@ -3,7 +3,7 @@ title : "Fall Feast"
 tags : ["feast"]
 ---
 
-`Day: Saturday, August 25th`
+`Day: Saturday, August 24th`
 
 `Time: 5:00 - 8:00 PM`
 

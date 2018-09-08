@@ -3,7 +3,7 @@ title : "Cake Walk"
 tags : ["cake-walk"]
 ---
 
-`Day: Monday, September 3rd`
+`Day: Monday, September 2nd`
 
 `Time: 10:00 AM`
 

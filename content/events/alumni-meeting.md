@@ -3,7 +3,7 @@ title: "Alumni Meeting"
 tags: ['meeting']
 ---
 
-`Day: Sunday, September 2nd`
+`Day: Sunday, September 1st`
 
 Registration:
 

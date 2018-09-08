@@ -3,7 +3,7 @@ title: "Antique Tractor Show"
 tags: ["tractor"]
 ---
 
-`Day: Monday, September 3rd`
+`Day: Monday, September 2nd`
 
 `Time: 9:30 AM`
 

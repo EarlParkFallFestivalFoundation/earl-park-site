@@ -1,5 +1,5 @@
 ---
-title: "Sept 2nd, Sunday"
+title: "Sept 1st, Sunday"
 tags: ["festival"]
 ---
 
