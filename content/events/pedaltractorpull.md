@@ -3,7 +3,7 @@ title : "Pedal Tractor Pull"
 tags : ["tractor pull"]
 ---
 
-`Day: Saturday, September 1st`
+`Day: Saturday, August 31st`
 
 `Time: 1:30 - 2:00 PM`
 

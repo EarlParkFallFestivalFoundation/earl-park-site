@@ -1,15 +1,11 @@
 ---
-title: "Aug 25th, Saturday"
+title: "Aug 24th, Saturday"
 tags: ["kickoff"]
 ---
 
 ## Kick-off Weekend - Saturday Events 
 
 <br>
-
-#### POUND in the Park
-    Time: 8:00 AM 
-    Location: Top of Circle
 
 #### 5k Walk/Run Registration
     Time: 8:30 - 9:00 AM 

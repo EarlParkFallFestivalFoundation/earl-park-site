@@ -3,7 +3,7 @@ title : "Parade"
 tags : ["parade"]
 ---
 
-`Day: Monday, September 3rd`
+`Day: Monday, September 2nd`
 
 Registration:
 

@@ -3,7 +3,7 @@ title : "Breakfast"
 tags : ["breakfast"]
 ---
 
-`Day: Saturday, September 1st - Monday, September 3rd`
+`Day: Saturday, August 31st - Monday, September 2nd`
 
 `Time: 7:00 - 10:30 AM`
 

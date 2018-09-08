@@ -3,7 +3,7 @@ title : "American Red Cross Blood Drive"
 tags : ["blooddrive"]
 ---
 
-`Day: Saturday, September 1st`
+`Day: Saturday, August 31st`
 
 Registration:
 

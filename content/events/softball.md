@@ -4,7 +4,7 @@ tags : ["softball"]
 ---
 
 
-`Days: Saturday, September 1st - Monday, September 3rd`
+`Days: Saturday, August 31st - Monday, September 2nd`
 
 We will be having a softball tournament throughout the weekend. 
 

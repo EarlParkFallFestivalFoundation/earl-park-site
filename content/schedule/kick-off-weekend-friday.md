@@ -1,5 +1,5 @@
 ---
-title: "Aug 24th, Friday"
+title: "Aug 23rd, Friday"
 tags: ["kickoff"]
 ---
 
