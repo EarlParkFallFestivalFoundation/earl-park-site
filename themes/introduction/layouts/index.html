@@ -63,8 +63,7 @@
             </div>
         </div>
 
-
-<div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
+        <div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
 </div><!-- End About section -->
 
 <div class="container"><hr></div>
@@ -89,7 +88,26 @@
     <div class="container"><hr></div>
     {{ end }}
 
-<!-- Let's chat, shall we? -->
+    <!-- Tell them all about it! -->
+    <div class="section" id="chairpersons">
+        <div class="container">
+            <h2 class="title is-2 has-text-centered">Chairpersons</h2>
+
+            <div class="columns"><!-- Avatar and about.md side by side except mobile -->
+                <div class="column markdown">
+                    {{ range .Data.Pages }}
+                    {{if eq .Title "Chairpersons" }}
+                    {{.Content}}
+                    {{end}}
+                    {{ end }}
+                </div>
+            </div>
+
+            <div class="container has-text-centered top-pad"><a href="#top"><i class="fa fa-arrow-up"></i></a></div>
+        </div><!-- End About section -->
+
+
+        <!-- Let's chat, shall we? -->
 <div class="section" id="contact">
     <div class="container has-text-centered">
     <h2 class="title is-2">Contact</h2>
