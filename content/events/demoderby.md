@@ -21,7 +21,7 @@ See them crash! see them smash! We promise we don't use the same cars in our aut
 
 ### Driver Information:
 
-<button onclick="window.open('/docs/2018-demolition-derby-rules.pdf')">Download 2018 Demolition Derby Rules <i class="fa fa-file-pdf-o"></i></button>
+<button onclick="window.open('/docs/2019-demolition-derby-rules.pdf')">Download 2019 Demolition Derby Rules <i class="fa fa-file-pdf-o"></i></button>
 
 ![Demo](/img/events/demo-derby/demo1.jpg)
 ![Demo](/img/events/demo-derby/demo2.jpg)
